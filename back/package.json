@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "twilio": "^3.84.1"
+  },
+  "name": "vscode",
+  "version": "1.0.0",
+  "description": "rxreact",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "app": "nodemon app.js"
+  },
+  "author": "Jaiten Kang",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

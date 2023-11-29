@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ghpages": "^0.0.10",
+    "mongodb": "^5.6.0"
+  }
+}
