@@ -1,5 +1,5 @@
 # RxRemind
-
+https://github.com/leighton-coutinho/RxRemind/assets/96268506/7fdfd70a-406b-4f88-906e-13d230227dae
 ## Overview
 RxRemind is a web application designed to help doctors add their patients to a prescription reminder service. This platform ensures that patients receive timely reminders for their medication, improving adherence to prescribed treatments. The application leverages the MERN stack, with React.js for the frontend, Node.js for backend processing, MongoDB for data storage, and Twilio API for sending SMS reminders. The application is deployed on an AWS EC2 instance.
 
@@ -32,5 +32,3 @@ RxRemind is a web application designed to help doctors add their patients to a p
 - **Improved Medication Adherence**: Helps reduce missed doses and improve overall treatment outcomes for patients.
 - **Enhanced Patient Management**: Provides doctors with an efficient tool to manage patient prescription reminders.
 
-
-https://github.com/leighton-coutinho/RxRemind/assets/96268506/7fdfd70a-406b-4f88-906e-13d230227dae
